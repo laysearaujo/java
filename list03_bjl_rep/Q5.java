@@ -1,3 +1,5 @@
+package list03_bjl_rep;
+
 import java.util.Scanner;
 
 public class Q5 {

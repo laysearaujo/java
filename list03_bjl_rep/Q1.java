@@ -1,3 +1,5 @@
+package list03_bjl_rep;
+
 public class Q1 {
     public static void main(String[] args) {
         int soma = 0;
