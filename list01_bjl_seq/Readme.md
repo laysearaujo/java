@@ -3,7 +3,7 @@
 **(1) Faça um programa que receba quatro
 números inteiros, calcule e mostre a soma desses números.**
 
-Exemplo de execução – Exercício 1 - Caso de teste
+* Exemplo de execução – Exercício 1 - Caso de teste
 Informe quatro números, em sequência:
 1
 2
